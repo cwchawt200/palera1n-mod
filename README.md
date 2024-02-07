@@ -1,5 +1,5 @@
 # Palera1n mod by kitty915
-
+***DOES NOT WORK on IOS 16.4 and or above***
 > **Warning** PLEASE, DO NOT ASK FOR SUPPORT REGARDING ICLOUD BYPASS IN PALERA1N DISCORD SERVER! THIS IS NOT OFFICIALLY SUPPORTED AND WON'T EVER BE.
 
 This palera1n mod adds a tethered iCloud Hello screen bypass for checkm8 devices, tested on an iPhone 6S.
